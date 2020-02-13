@@ -2,6 +2,8 @@
 
 C program and python API to retrieve bitmap images generated from the Mandelbrot set.
 
+The server is hosted on a Digital Ocean Droplet.
+
 This API was built for my Mandelbrot web application. The API has two methods:
 
 Post
